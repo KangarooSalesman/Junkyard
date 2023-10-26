@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "JunkyardApp",
+    "slug": "JunkyardApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "JunkyardApp"
+}
